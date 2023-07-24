@@ -27,8 +27,8 @@ module.exports = {
     NODES: [
      {
         name: 'node : 1',
-        url: 'localhost:2333',
-        auth: 'thisisveryhighpassword',
+        url: '144.76.57.59:14368',
+        auth: 'youshallnotpass',
         secure: false
   }
     ]
